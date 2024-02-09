@@ -1,6 +1,6 @@
 # talos-vmtoolsd
 
-**A VMware tools implementation for the Talos Kubernetes platform, using govmomi and Talos' apid**
+**A VMware tools implementation for the Talos Kubernetes platform, using govmomi and Talos' apid** 
 
 [Talos](https://talos.dev/) ships as OVA file for VMware platforms, but by design lacks first-party hypervisor integration packages. Restart/stop buttons for Talos nodes will not function and VM details are not available in vCenter.
 
